@@ -9,3 +9,5 @@ For the convenience of phased debugging, the Python source code of the project h
 4. Run "CosSimilarity.py" in the current directory to calculate the cosine similarity between the generated data and the original data.
 
 5. Run "BinaryToDecimalConversion" in the current directory to convert the generated CAN data in binary format into decimal representation. 
+
+The Car Hacking dataset was obtained as follows:https://ocslab.hksecurity.net/Datasets/CAN-intrusion-dataset
